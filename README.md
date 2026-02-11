@@ -6,5 +6,5 @@ Prayer App for Android
 https://play.google.com/store/apps/details?id=com.kangengineering.prayer&pli=1
 
 
-AI Chat Bot for Pizza Shop - Android ONLY
-
+AI Chat Bot for Pizza Shop - Android ONLY (APK - you must download and install from here)
+https://github.com/sk92129/showcases/blob/main/lexchat/app-release.apk
